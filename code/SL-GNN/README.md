@@ -1,5 +1,4 @@
-# Mitigating-MisInfoSpread
-
+# NeurIPS-Submission-2024
 A brief description of what this project does and who it's for.
 
 ## Table of Contents
@@ -10,7 +9,6 @@ A brief description of what this project does and who it's for.
 ## Folder Structure
 
 - `Comparison` contains the csv files for the comparison of the different models
-- `Dataset` contains the dataset used for the comparison
 - `Figures` contains the figures generated from the comparison
 - `Models` contains the models weight files (case 1, case 2 and case 3) used for the comparison
 
