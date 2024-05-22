@@ -1,10 +1,4 @@
 # NeurIPS-Submission-2024
-A brief description of what this project does and who it's for.
-
-## Table of Contents
-
-- [Folder Structure](#folder-structure)
-- [Files Explanation](#files-explanation)
 
 ## Folder Structure
 
