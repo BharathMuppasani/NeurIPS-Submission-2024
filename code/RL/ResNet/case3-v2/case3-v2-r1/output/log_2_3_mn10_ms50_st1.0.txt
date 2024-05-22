@@ -1,0 +1,902 @@
+####### Using device: cuda #######
+
+Starting episode 1 of 300
+Episode 1 finished with loss: 0.1579 | ran for 51 timesteps | final avg reward: -0.126 | took 62.19 seconds
+
+Starting episode 2 of 300
+Episode 2 finished with loss: 0.2119 | ran for 51 timesteps | final avg reward: -0.12 | took 60.58 seconds
+
+Starting episode 3 of 300
+Episode 3 finished with loss: 0.1862 | ran for 51 timesteps | final avg reward: -0.14 | took 63.51 seconds
+
+Starting episode 4 of 300
+Episode 4 finished with loss: 1.0226 | ran for 51 timesteps | final avg reward: -0.113 | took 62.59 seconds
+
+Starting episode 5 of 300
+Episode 5 finished with loss: 0.2903 | ran for 51 timesteps | final avg reward: -0.116 | took 61.44 seconds
+
+Starting episode 6 of 300
+Episode 6 finished with loss: 0.9887 | ran for 51 timesteps | final avg reward: -0.119 | took 66.52 seconds
+
+Starting episode 7 of 300
+Episode 7 finished with loss: 0.7488 | ran for 51 timesteps | final avg reward: -0.129 | took 73.14 seconds
+
+Starting episode 8 of 300
+Episode 8 finished with loss: 0.7977 | ran for 51 timesteps | final avg reward: -0.124 | took 72.16 seconds
+
+Starting episode 9 of 300
+Episode 9 finished with loss: 1.5586 | ran for 51 timesteps | final avg reward: -0.144 | took 73.65 seconds
+
+Starting episode 10 of 300
+Episode 10 finished with loss: 0.3841 | ran for 51 timesteps | final avg reward: -0.137 | took 74.8 seconds
+
+Starting episode 11 of 300
+Episode 11 finished with loss: 0.4241 | ran for 51 timesteps | final avg reward: -0.133 | took 75.82 seconds
+
+Starting episode 12 of 300
+Episode 12 finished with loss: 0.8768 | ran for 51 timesteps | final avg reward: -0.133 | took 76.14 seconds
+
+Starting episode 13 of 300
+Episode 13 finished with loss: 1.772 | ran for 51 timesteps | final avg reward: -0.133 | took 78.3 seconds
+
+Starting episode 14 of 300
+Episode 14 finished with loss: 0.9102 | ran for 51 timesteps | final avg reward: -0.137 | took 78.7 seconds
+
+Starting episode 15 of 300
+Episode 15 finished with loss: 0.8534 | ran for 51 timesteps | final avg reward: -0.117 | took 75.34 seconds
+
+Starting episode 16 of 300
+Episode 16 finished with loss: 2.1105 | ran for 51 timesteps | final avg reward: -0.106 | took 74.16 seconds
+
+Starting episode 17 of 300
+Episode 17 finished with loss: 0.9394 | ran for 51 timesteps | final avg reward: -0.098 | took 75.11 seconds
+
+Starting episode 18 of 300
+Episode 18 finished with loss: 0.9145 | ran for 51 timesteps | final avg reward: -0.127 | took 79.56 seconds
+
+Starting episode 19 of 300
+Episode 19 finished with loss: 0.9054 | ran for 51 timesteps | final avg reward: -0.125 | took 78.42 seconds
+
+Starting episode 20 of 300
+Episode 20 finished with loss: 1.4387 | ran for 51 timesteps | final avg reward: -0.141 | took 78.89 seconds
+
+Starting episode 21 of 300
+Episode 21 finished with loss: 2.2433 | ran for 51 timesteps | final avg reward: -0.139 | took 77.92 seconds
+
+Starting episode 22 of 300
+Episode 22 finished with loss: 1.3017 | ran for 51 timesteps | final avg reward: -0.116 | took 75.89 seconds
+
+Starting episode 23 of 300
+Episode 23 finished with loss: 0.4473 | ran for 51 timesteps | final avg reward: -0.139 | took 81.76 seconds
+
+Starting episode 24 of 300
+Episode 24 finished with loss: 1.6705 | ran for 51 timesteps | final avg reward: -0.131 | took 76.79 seconds
+
+Starting episode 25 of 300
+Episode 25 finished with loss: 2.0769 | ran for 51 timesteps | final avg reward: -0.118 | took 76.21 seconds
+
+Starting episode 26 of 300
+Episode 26 finished with loss: 0.425 | ran for 51 timesteps | final avg reward: -0.121 | took 77.09 seconds
+
+Starting episode 27 of 300
+Episode 27 finished with loss: 1.2857 | ran for 51 timesteps | final avg reward: -0.129 | took 81.1 seconds
+
+Starting episode 28 of 300
+Episode 28 finished with loss: 1.4217 | ran for 51 timesteps | final avg reward: -0.147 | took 82.63 seconds
+
+Starting episode 29 of 300
+Episode 29 finished with loss: 0.863 | ran for 51 timesteps | final avg reward: -0.115 | took 79.2 seconds
+
+Starting episode 30 of 300
+Episode 30 finished with loss: 0.8774 | ran for 51 timesteps | final avg reward: -0.121 | took 79.44 seconds
+
+Starting episode 31 of 300
+Episode 31 finished with loss: 2.2902 | ran for 51 timesteps | final avg reward: -0.111 | took 78.65 seconds
+
+Starting episode 32 of 300
+Episode 32 finished with loss: 2.1268 | ran for 51 timesteps | final avg reward: -0.123 | took 78.02 seconds
+
+Starting episode 33 of 300
+Episode 33 finished with loss: 1.2612 | ran for 51 timesteps | final avg reward: -0.117 | took 78.15 seconds
+
+Starting episode 34 of 300
+Episode 34 finished with loss: 0.0501 | ran for 51 timesteps | final avg reward: -0.132 | took 80.62 seconds
+
+Starting episode 35 of 300
+Episode 35 finished with loss: 0.4478 | ran for 51 timesteps | final avg reward: -0.128 | took 78.13 seconds
+
+Starting episode 36 of 300
+Episode 36 finished with loss: 1.4946 | ran for 51 timesteps | final avg reward: -0.136 | took 79.29 seconds
+
+Starting episode 37 of 300
+Episode 37 finished with loss: 0.742 | ran for 51 timesteps | final avg reward: -0.13 | took 78.63 seconds
+
+Starting episode 38 of 300
+Episode 38 finished with loss: 1.0703 | ran for 51 timesteps | final avg reward: -0.124 | took 79.16 seconds
+
+Starting episode 39 of 300
+Episode 39 finished with loss: 0.0364 | ran for 51 timesteps | final avg reward: -0.119 | took 78.44 seconds
+
+Starting episode 40 of 300
+Episode 40 finished with loss: 0.3978 | ran for 51 timesteps | final avg reward: -0.128 | took 80.14 seconds
+
+Starting episode 41 of 300
+Episode 41 finished with loss: 3.5879 | ran for 51 timesteps | final avg reward: -0.141 | took 82.23 seconds
+
+Starting episode 42 of 300
+Episode 42 finished with loss: 1.2556 | ran for 51 timesteps | final avg reward: -0.123 | took 81.83 seconds
+
+Starting episode 43 of 300
+Episode 43 finished with loss: 0.4258 | ran for 51 timesteps | final avg reward: -0.127 | took 79.9 seconds
+
+Starting episode 44 of 300
+Episode 44 finished with loss: 1.6745 | ran for 51 timesteps | final avg reward: -0.126 | took 81.61 seconds
+
+Starting episode 45 of 300
+Episode 45 finished with loss: 1.7123 | ran for 51 timesteps | final avg reward: -0.129 | took 80.08 seconds
+
+Starting episode 46 of 300
+Episode 46 finished with loss: 0.0236 | ran for 51 timesteps | final avg reward: -0.125 | took 79.6 seconds
+
+Starting episode 47 of 300
+Episode 47 finished with loss: 0.4529 | ran for 51 timesteps | final avg reward: -0.13 | took 82.21 seconds
+
+Starting episode 48 of 300
+Episode 48 finished with loss: 1.4012 | ran for 51 timesteps | final avg reward: -0.119 | took 78.37 seconds
+
+Starting episode 49 of 300
+Episode 49 finished with loss: 1.858 | ran for 51 timesteps | final avg reward: -0.113 | took 79.52 seconds
+
+Starting episode 50 of 300
+Episode 50 finished with loss: 0.4626 | ran for 51 timesteps | final avg reward: -0.122 | took 78.92 seconds
+
+Starting episode 51 of 300
+Episode 51 finished with loss: 0.4475 | ran for 51 timesteps | final avg reward: -0.135 | took 81.38 seconds
+
+Starting episode 52 of 300
+Episode 52 finished with loss: 1.3188 | ran for 51 timesteps | final avg reward: -0.118 | took 77.7 seconds
+
+Starting episode 53 of 300
+Episode 53 finished with loss: 0.8959 | ran for 51 timesteps | final avg reward: -0.118 | took 79.97 seconds
+
+Starting episode 54 of 300
+Episode 54 finished with loss: 0.8779 | ran for 51 timesteps | final avg reward: -0.14 | took 83.73 seconds
+
+Starting episode 55 of 300
+Episode 55 finished with loss: 0.4453 | ran for 51 timesteps | final avg reward: -0.127 | took 81.5 seconds
+
+Starting episode 56 of 300
+Episode 56 finished with loss: 1.3545 | ran for 51 timesteps | final avg reward: -0.126 | took 79.9 seconds
+
+Starting episode 57 of 300
+Episode 57 finished with loss: 1.3034 | ran for 51 timesteps | final avg reward: -0.117 | took 79.2 seconds
+
+Starting episode 58 of 300
+Episode 58 finished with loss: 1.3974 | ran for 51 timesteps | final avg reward: -0.125 | took 79.21 seconds
+
+Starting episode 59 of 300
+Episode 59 finished with loss: 1.438 | ran for 51 timesteps | final avg reward: -0.122 | took 80.48 seconds
+
+Starting episode 60 of 300
+Episode 60 finished with loss: 0.4809 | ran for 51 timesteps | final avg reward: -0.145 | took 83.9 seconds
+
+Starting episode 61 of 300
+Episode 61 finished with loss: 1.7886 | ran for 51 timesteps | final avg reward: -0.123 | took 80.77 seconds
+
+Starting episode 62 of 300
+Episode 62 finished with loss: 0.8533 | ran for 51 timesteps | final avg reward: -0.133 | took 82.62 seconds
+
+Starting episode 63 of 300
+Episode 63 finished with loss: 0.4388 | ran for 51 timesteps | final avg reward: -0.14 | took 84.72 seconds
+
+Starting episode 64 of 300
+Episode 64 finished with loss: 1.6265 | ran for 51 timesteps | final avg reward: -0.122 | took 81.84 seconds
+
+Starting episode 65 of 300
+Episode 65 finished with loss: 0.8969 | ran for 51 timesteps | final avg reward: -0.147 | took 86.99 seconds
+
+Starting episode 66 of 300
+Episode 66 finished with loss: 3.8281 | ran for 51 timesteps | final avg reward: -0.138 | took 82.51 seconds
+
+Starting episode 67 of 300
+Episode 67 finished with loss: 2.1319 | ran for 51 timesteps | final avg reward: -0.126 | took 79.95 seconds
+
+Starting episode 68 of 300
+Episode 68 finished with loss: 0.8876 | ran for 51 timesteps | final avg reward: -0.118 | took 82.36 seconds
+
+Starting episode 69 of 300
+Episode 69 finished with loss: 0.9106 | ran for 51 timesteps | final avg reward: -0.137 | took 83.56 seconds
+
+Starting episode 70 of 300
+Episode 70 finished with loss: 0.0296 | ran for 51 timesteps | final avg reward: -0.127 | took 83.23 seconds
+
+Starting episode 71 of 300
+Episode 71 finished with loss: 3.2595 | ran for 51 timesteps | final avg reward: -0.11 | took 79.11 seconds
+
+Starting episode 72 of 300
+Episode 72 finished with loss: 0.9604 | ran for 51 timesteps | final avg reward: -0.14 | took 84.12 seconds
+
+Starting episode 73 of 300
+Episode 73 finished with loss: 1.0202 | ran for 51 timesteps | final avg reward: -0.142 | took 85.38 seconds
+
+Starting episode 74 of 300
+Episode 74 finished with loss: 0.4898 | ran for 51 timesteps | final avg reward: -0.123 | took 81.86 seconds
+
+Starting episode 75 of 300
+Episode 75 finished with loss: 1.3701 | ran for 51 timesteps | final avg reward: -0.113 | took 80.25 seconds
+
+Starting episode 76 of 300
+Episode 76 finished with loss: 0.4519 | ran for 51 timesteps | final avg reward: -0.127 | took 84.69 seconds
+
+Starting episode 77 of 300
+Episode 77 finished with loss: 0.377 | ran for 51 timesteps | final avg reward: -0.12 | took 79.35 seconds
+
+Starting episode 78 of 300
+Episode 78 finished with loss: 0.486 | ran for 51 timesteps | final avg reward: -0.113 | took 80.02 seconds
+
+Starting episode 79 of 300
+Episode 79 finished with loss: 0.4644 | ran for 51 timesteps | final avg reward: -0.137 | took 84.14 seconds
+
+Starting episode 80 of 300
+Episode 80 finished with loss: 2.2784 | ran for 51 timesteps | final avg reward: -0.136 | took 83.81 seconds
+
+Starting episode 81 of 300
+Episode 81 finished with loss: 1.3206 | ran for 51 timesteps | final avg reward: -0.124 | took 82.04 seconds
+
+Starting episode 82 of 300
+Episode 82 finished with loss: 0.5218 | ran for 51 timesteps | final avg reward: -0.12 | took 83.68 seconds
+
+Starting episode 83 of 300
+Episode 83 finished with loss: 0.0396 | ran for 51 timesteps | final avg reward: -0.127 | took 82.22 seconds
+
+Starting episode 84 of 300
+Episode 84 finished with loss: 0.4494 | ran for 51 timesteps | final avg reward: -0.121 | took 80.76 seconds
+
+Starting episode 85 of 300
+Episode 85 finished with loss: 1.1916 | ran for 51 timesteps | final avg reward: -0.128 | took 81.58 seconds
+
+Starting episode 86 of 300
+Episode 86 finished with loss: 0.3873 | ran for 51 timesteps | final avg reward: -0.125 | took 81.74 seconds
+
+Starting episode 87 of 300
+Episode 87 finished with loss: 1.6302 | ran for 51 timesteps | final avg reward: -0.135 | took 82.55 seconds
+
+Starting episode 88 of 300
+Episode 88 finished with loss: 1.2222 | ran for 51 timesteps | final avg reward: -0.125 | took 84.59 seconds
+
+Starting episode 89 of 300
+Episode 89 finished with loss: 0.9049 | ran for 51 timesteps | final avg reward: -0.119 | took 81.74 seconds
+
+Starting episode 90 of 300
+Episode 90 finished with loss: 2.9703 | ran for 51 timesteps | final avg reward: -0.139 | took 84.36 seconds
+
+Starting episode 91 of 300
+Episode 91 finished with loss: 0.4791 | ran for 51 timesteps | final avg reward: -0.118 | took 81.78 seconds
+
+Starting episode 92 of 300
+Episode 92 finished with loss: 0.94 | ran for 51 timesteps | final avg reward: -0.131 | took 81.66 seconds
+
+Starting episode 93 of 300
+Episode 93 finished with loss: 2.2586 | ran for 51 timesteps | final avg reward: -0.144 | took 87.3 seconds
+
+Starting episode 94 of 300
+Episode 94 finished with loss: 1.6053 | ran for 51 timesteps | final avg reward: -0.115 | took 80.23 seconds
+
+Starting episode 95 of 300
+Episode 95 finished with loss: 1.2463 | ran for 51 timesteps | final avg reward: -0.123 | took 82.24 seconds
+
+Starting episode 96 of 300
+Episode 96 finished with loss: 0.8661 | ran for 51 timesteps | final avg reward: -0.126 | took 84.53 seconds
+
+Starting episode 97 of 300
+Episode 97 finished with loss: 0.9132 | ran for 51 timesteps | final avg reward: -0.14 | took 84.29 seconds
+
+Starting episode 98 of 300
+Episode 98 finished with loss: 0.9717 | ran for 51 timesteps | final avg reward: -0.134 | took 82.9 seconds
+
+Starting episode 99 of 300
+Episode 99 finished with loss: 2.0131 | ran for 51 timesteps | final avg reward: -0.133 | took 82.76 seconds
+
+Starting episode 100 of 300
+Episode 100 finished with loss: 1.6832 | ran for 51 timesteps | final avg reward: -0.121 | took 82.66 seconds
+
+Starting episode 101 of 300
+Episode 101 finished with loss: 0.4798 | ran for 51 timesteps | final avg reward: -0.137 | took 84.68 seconds
+
+Starting episode 102 of 300
+Episode 102 finished with loss: 0.0342 | ran for 51 timesteps | final avg reward: -0.131 | took 83.74 seconds
+
+Starting episode 103 of 300
+Episode 103 finished with loss: 1.4638 | ran for 51 timesteps | final avg reward: -0.133 | took 82.81 seconds
+
+Starting episode 104 of 300
+Episode 104 finished with loss: 1.0432 | ran for 51 timesteps | final avg reward: -0.134 | took 83.4 seconds
+
+Starting episode 105 of 300
+Episode 105 finished with loss: 1.5101 | ran for 51 timesteps | final avg reward: -0.12 | took 81.32 seconds
+
+Starting episode 106 of 300
+Episode 106 finished with loss: 1.4623 | ran for 51 timesteps | final avg reward: -0.125 | took 81.08 seconds
+
+Starting episode 107 of 300
+Episode 107 finished with loss: 1.9066 | ran for 51 timesteps | final avg reward: -0.129 | took 85.37 seconds
+
+Starting episode 108 of 300
+Episode 108 finished with loss: 0.4642 | ran for 51 timesteps | final avg reward: -0.125 | took 81.97 seconds
+
+Starting episode 109 of 300
+Episode 109 finished with loss: 1.3982 | ran for 51 timesteps | final avg reward: -0.121 | took 81.84 seconds
+
+Starting episode 110 of 300
+Episode 110 finished with loss: 1.3452 | ran for 51 timesteps | final avg reward: -0.135 | took 82.69 seconds
+
+Starting episode 111 of 300
+Episode 111 finished with loss: 0.8941 | ran for 51 timesteps | final avg reward: -0.121 | took 81.09 seconds
+
+Starting episode 112 of 300
+Episode 112 finished with loss: 0.8106 | ran for 51 timesteps | final avg reward: -0.134 | took 82.95 seconds
+
+Starting episode 113 of 300
+Episode 113 finished with loss: 1.3457 | ran for 51 timesteps | final avg reward: -0.119 | took 82.75 seconds
+
+Starting episode 114 of 300
+Episode 114 finished with loss: 0.4889 | ran for 51 timesteps | final avg reward: -0.137 | took 85.58 seconds
+
+Starting episode 115 of 300
+Episode 115 finished with loss: 0.4598 | ran for 51 timesteps | final avg reward: -0.128 | took 85.03 seconds
+
+Starting episode 116 of 300
+Episode 116 finished with loss: 0.4791 | ran for 51 timesteps | final avg reward: -0.126 | took 82.92 seconds
+
+Starting episode 117 of 300
+Episode 117 finished with loss: 0.4497 | ran for 51 timesteps | final avg reward: -0.118 | took 81.5 seconds
+
+Starting episode 118 of 300
+Episode 118 finished with loss: 2.1389 | ran for 51 timesteps | final avg reward: -0.139 | took 86.0 seconds
+
+Starting episode 119 of 300
+Episode 119 finished with loss: 2.5863 | ran for 51 timesteps | final avg reward: -0.115 | took 80.12 seconds
+
+Starting episode 120 of 300
+Episode 120 finished with loss: 1.8196 | ran for 51 timesteps | final avg reward: -0.119 | took 81.02 seconds
+
+Starting episode 121 of 300
+Episode 121 finished with loss: 0.884 | ran for 51 timesteps | final avg reward: -0.134 | took 84.17 seconds
+
+Starting episode 122 of 300
+Episode 122 finished with loss: 1.6305 | ran for 51 timesteps | final avg reward: -0.136 | took 85.6 seconds
+
+Starting episode 123 of 300
+Episode 123 finished with loss: 0.8012 | ran for 51 timesteps | final avg reward: -0.133 | took 84.71 seconds
+
+Starting episode 124 of 300
+Episode 124 finished with loss: 1.2755 | ran for 51 timesteps | final avg reward: -0.109 | took 80.14 seconds
+
+Starting episode 125 of 300
+Episode 125 finished with loss: 0.0256 | ran for 51 timesteps | final avg reward: -0.134 | took 84.14 seconds
+
+Starting episode 126 of 300
+Episode 126 finished with loss: 0.9305 | ran for 51 timesteps | final avg reward: -0.126 | took 84.45 seconds
+
+Starting episode 127 of 300
+Episode 127 finished with loss: 0.9059 | ran for 51 timesteps | final avg reward: -0.112 | took 79.67 seconds
+
+Starting episode 128 of 300
+Episode 128 finished with loss: 0.4729 | ran for 51 timesteps | final avg reward: -0.129 | took 83.1 seconds
+
+Starting episode 129 of 300
+Episode 129 finished with loss: 0.0228 | ran for 51 timesteps | final avg reward: -0.121 | took 82.94 seconds
+
+Starting episode 130 of 300
+Episode 130 finished with loss: 1.9292 | ran for 51 timesteps | final avg reward: -0.129 | took 82.8 seconds
+
+Starting episode 131 of 300
+Episode 131 finished with loss: 0.9237 | ran for 51 timesteps | final avg reward: -0.12 | took 79.85 seconds
+
+Starting episode 132 of 300
+Episode 132 finished with loss: 1.3426 | ran for 51 timesteps | final avg reward: -0.141 | took 87.4 seconds
+
+Starting episode 133 of 300
+Episode 133 finished with loss: 0.4829 | ran for 51 timesteps | final avg reward: -0.134 | took 86.05 seconds
+
+Starting episode 134 of 300
+Episode 134 finished with loss: 1.4103 | ran for 51 timesteps | final avg reward: -0.123 | took 82.15 seconds
+
+Starting episode 135 of 300
+Episode 135 finished with loss: 0.5097 | ran for 51 timesteps | final avg reward: -0.139 | took 85.94 seconds
+
+Starting episode 136 of 300
+Episode 136 finished with loss: 1.4011 | ran for 51 timesteps | final avg reward: -0.158 | took 86.48 seconds
+
+Starting episode 137 of 300
+Episode 137 finished with loss: 2.3202 | ran for 51 timesteps | final avg reward: -0.118 | took 79.01 seconds
+
+Starting episode 138 of 300
+Episode 138 finished with loss: 1.9141 | ran for 51 timesteps | final avg reward: -0.11 | took 82.5 seconds
+
+Starting episode 139 of 300
+Episode 139 finished with loss: 1.3917 | ran for 51 timesteps | final avg reward: -0.134 | took 83.75 seconds
+
+Starting episode 140 of 300
+Episode 140 finished with loss: 1.3788 | ran for 51 timesteps | final avg reward: -0.118 | took 83.0 seconds
+
+Starting episode 141 of 300
+Episode 141 finished with loss: 0.9373 | ran for 51 timesteps | final avg reward: -0.126 | took 82.24 seconds
+
+Starting episode 142 of 300
+Episode 142 finished with loss: 0.9555 | ran for 51 timesteps | final avg reward: -0.147 | took 85.63 seconds
+
+Starting episode 143 of 300
+Episode 143 finished with loss: 0.4602 | ran for 51 timesteps | final avg reward: -0.118 | took 80.5 seconds
+
+Starting episode 144 of 300
+Episode 144 finished with loss: 1.4783 | ran for 51 timesteps | final avg reward: -0.12 | took 83.0 seconds
+
+Starting episode 145 of 300
+Episode 145 finished with loss: 1.478 | ran for 51 timesteps | final avg reward: -0.13 | took 84.1 seconds
+
+Starting episode 146 of 300
+Episode 146 finished with loss: 0.5005 | ran for 51 timesteps | final avg reward: -0.124 | took 81.07 seconds
+
+Starting episode 147 of 300
+Episode 147 finished with loss: 0.9738 | ran for 51 timesteps | final avg reward: -0.136 | took 83.55 seconds
+
+Starting episode 148 of 300
+Episode 148 finished with loss: 2.119 | ran for 51 timesteps | final avg reward: -0.129 | took 83.51 seconds
+
+Starting episode 149 of 300
+Episode 149 finished with loss: 2.2281 | ran for 51 timesteps | final avg reward: -0.106 | took 79.62 seconds
+
+Starting episode 150 of 300
+Episode 150 finished with loss: 0.4192 | ran for 51 timesteps | final avg reward: -0.129 | took 82.22 seconds
+
+Starting episode 151 of 300
+Episode 151 finished with loss: 0.8824 | ran for 51 timesteps | final avg reward: -0.14 | took 86.37 seconds
+
+Starting episode 152 of 300
+Episode 152 finished with loss: 0.4636 | ran for 51 timesteps | final avg reward: -0.112 | took 81.96 seconds
+
+Starting episode 153 of 300
+Episode 153 finished with loss: 1.2927 | ran for 51 timesteps | final avg reward: -0.147 | took 85.4 seconds
+
+Starting episode 154 of 300
+Episode 154 finished with loss: 0.4577 | ran for 51 timesteps | final avg reward: -0.125 | took 81.93 seconds
+
+Starting episode 155 of 300
+Episode 155 finished with loss: 1.8525 | ran for 51 timesteps | final avg reward: -0.128 | took 84.0 seconds
+
+Starting episode 156 of 300
+Episode 156 finished with loss: 1.7727 | ran for 51 timesteps | final avg reward: -0.128 | took 82.73 seconds
+
+Starting episode 157 of 300
+Episode 157 finished with loss: 0.9395 | ran for 51 timesteps | final avg reward: -0.13 | took 82.81 seconds
+
+Starting episode 158 of 300
+Episode 158 finished with loss: 2.1953 | ran for 51 timesteps | final avg reward: -0.127 | took 83.02 seconds
+
+Starting episode 159 of 300
+Episode 159 finished with loss: 0.443 | ran for 51 timesteps | final avg reward: -0.124 | took 83.86 seconds
+
+Starting episode 160 of 300
+Episode 160 finished with loss: 1.6512 | ran for 51 timesteps | final avg reward: -0.127 | took 82.42 seconds
+
+Starting episode 161 of 300
+Episode 161 finished with loss: 1.1275 | ran for 51 timesteps | final avg reward: -0.104 | took 78.27 seconds
+
+Starting episode 162 of 300
+Episode 162 finished with loss: 0.772 | ran for 51 timesteps | final avg reward: -0.116 | took 83.28 seconds
+
+Starting episode 163 of 300
+Episode 163 finished with loss: 1.1741 | ran for 51 timesteps | final avg reward: -0.129 | took 84.94 seconds
+
+Starting episode 164 of 300
+Episode 164 finished with loss: 0.8278 | ran for 51 timesteps | final avg reward: -0.12 | took 81.57 seconds
+
+Starting episode 165 of 300
+Episode 165 finished with loss: 0.9092 | ran for 51 timesteps | final avg reward: -0.123 | took 83.53 seconds
+
+Starting episode 166 of 300
+Episode 166 finished with loss: 2.4981 | ran for 51 timesteps | final avg reward: -0.121 | took 82.04 seconds
+
+Starting episode 167 of 300
+Episode 167 finished with loss: 0.8321 | ran for 51 timesteps | final avg reward: -0.129 | took 82.27 seconds
+
+Starting episode 168 of 300
+Episode 168 finished with loss: 0.4338 | ran for 51 timesteps | final avg reward: -0.125 | took 82.65 seconds
+
+Starting episode 169 of 300
+Episode 169 finished with loss: 0.4716 | ran for 51 timesteps | final avg reward: -0.131 | took 84.3 seconds
+
+Starting episode 170 of 300
+Episode 170 finished with loss: 1.4063 | ran for 51 timesteps | final avg reward: -0.126 | took 83.27 seconds
+
+Starting episode 171 of 300
+Episode 171 finished with loss: 0.5083 | ran for 51 timesteps | final avg reward: -0.133 | took 83.22 seconds
+
+Starting episode 172 of 300
+Episode 172 finished with loss: 2.2829 | ran for 51 timesteps | final avg reward: -0.113 | took 81.73 seconds
+
+Starting episode 173 of 300
+Episode 173 finished with loss: 0.983 | ran for 51 timesteps | final avg reward: -0.132 | took 83.33 seconds
+
+Starting episode 174 of 300
+Episode 174 finished with loss: 0.9712 | ran for 51 timesteps | final avg reward: -0.124 | took 82.96 seconds
+
+Starting episode 175 of 300
+Episode 175 finished with loss: 1.3266 | ran for 51 timesteps | final avg reward: -0.124 | took 83.41 seconds
+
+Starting episode 176 of 300
+Episode 176 finished with loss: 2.5101 | ran for 51 timesteps | final avg reward: -0.135 | took 84.84 seconds
+
+Starting episode 177 of 300
+Episode 177 finished with loss: 1.3677 | ran for 51 timesteps | final avg reward: -0.139 | took 85.34 seconds
+
+Starting episode 178 of 300
+Episode 178 finished with loss: 0.8921 | ran for 51 timesteps | final avg reward: -0.133 | took 84.07 seconds
+
+Starting episode 179 of 300
+Episode 179 finished with loss: 0.8996 | ran for 51 timesteps | final avg reward: -0.131 | took 83.71 seconds
+
+Starting episode 180 of 300
+Episode 180 finished with loss: 1.6754 | ran for 51 timesteps | final avg reward: -0.122 | took 82.72 seconds
+
+Starting episode 181 of 300
+Episode 181 finished with loss: 1.3445 | ran for 51 timesteps | final avg reward: -0.128 | took 83.79 seconds
+
+Starting episode 182 of 300
+Episode 182 finished with loss: 0.4918 | ran for 51 timesteps | final avg reward: -0.127 | took 83.33 seconds
+
+Starting episode 183 of 300
+Episode 183 finished with loss: 0.4607 | ran for 51 timesteps | final avg reward: -0.119 | took 81.36 seconds
+
+Starting episode 184 of 300
+Episode 184 finished with loss: 1.753 | ran for 51 timesteps | final avg reward: -0.141 | took 85.64 seconds
+
+Starting episode 185 of 300
+Episode 185 finished with loss: 0.8972 | ran for 51 timesteps | final avg reward: -0.121 | took 82.26 seconds
+
+Starting episode 186 of 300
+Episode 186 finished with loss: 1.246 | ran for 51 timesteps | final avg reward: -0.14 | took 85.53 seconds
+
+Starting episode 187 of 300
+Episode 187 finished with loss: 1.2595 | ran for 51 timesteps | final avg reward: -0.126 | took 83.53 seconds
+
+Starting episode 188 of 300
+Episode 188 finished with loss: 0.8917 | ran for 51 timesteps | final avg reward: -0.136 | took 86.42 seconds
+
+Starting episode 189 of 300
+Episode 189 finished with loss: 1.2943 | ran for 51 timesteps | final avg reward: -0.136 | took 86.03 seconds
+
+Starting episode 190 of 300
+Episode 190 finished with loss: 1.3478 | ran for 51 timesteps | final avg reward: -0.112 | took 81.5 seconds
+
+Starting episode 191 of 300
+Episode 191 finished with loss: 1.231 | ran for 51 timesteps | final avg reward: -0.13 | took 84.77 seconds
+
+Starting episode 192 of 300
+Episode 192 finished with loss: 0.8602 | ran for 51 timesteps | final avg reward: -0.141 | took 86.94 seconds
+
+Starting episode 193 of 300
+Episode 193 finished with loss: 1.2532 | ran for 51 timesteps | final avg reward: -0.127 | took 83.66 seconds
+
+Starting episode 194 of 300
+Episode 194 finished with loss: 0.4034 | ran for 51 timesteps | final avg reward: -0.129 | took 83.93 seconds
+
+Starting episode 195 of 300
+Episode 195 finished with loss: 1.6802 | ran for 51 timesteps | final avg reward: -0.138 | took 85.1 seconds
+
+Starting episode 196 of 300
+Episode 196 finished with loss: 0.513 | ran for 51 timesteps | final avg reward: -0.129 | took 84.38 seconds
+
+Starting episode 197 of 300
+Episode 197 finished with loss: 2.0766 | ran for 51 timesteps | final avg reward: -0.12 | took 84.96 seconds
+
+Starting episode 198 of 300
+Episode 198 finished with loss: 1.5198 | ran for 51 timesteps | final avg reward: -0.14 | took 85.47 seconds
+
+Starting episode 199 of 300
+Episode 199 finished with loss: 0.821 | ran for 51 timesteps | final avg reward: -0.125 | took 82.43 seconds
+
+Starting episode 200 of 300
+Episode 200 finished with loss: 1.2502 | ran for 51 timesteps | final avg reward: -0.138 | took 85.73 seconds
+
+Starting episode 201 of 300
+Episode 201 finished with loss: 1.2644 | ran for 51 timesteps | final avg reward: -0.142 | took 83.3 seconds
+
+Starting episode 202 of 300
+Episode 202 finished with loss: 0.0361 | ran for 51 timesteps | final avg reward: -0.13 | took 84.47 seconds
+
+Starting episode 203 of 300
+Episode 203 finished with loss: 1.237 | ran for 51 timesteps | final avg reward: -0.123 | took 81.8 seconds
+
+Starting episode 204 of 300
+Episode 204 finished with loss: 0.39 | ran for 51 timesteps | final avg reward: -0.125 | took 84.67 seconds
+
+Starting episode 205 of 300
+Episode 205 finished with loss: 1.6664 | ran for 51 timesteps | final avg reward: -0.13 | took 82.47 seconds
+
+Starting episode 206 of 300
+Episode 206 finished with loss: 1.2208 | ran for 51 timesteps | final avg reward: -0.126 | took 82.07 seconds
+
+Starting episode 207 of 300
+Episode 207 finished with loss: 0.0355 | ran for 51 timesteps | final avg reward: -0.134 | took 84.26 seconds
+
+Starting episode 208 of 300
+Episode 208 finished with loss: 1.4121 | ran for 51 timesteps | final avg reward: -0.142 | took 89.08 seconds
+
+Starting episode 209 of 300
+Episode 209 finished with loss: 0.9093 | ran for 51 timesteps | final avg reward: -0.135 | took 86.0 seconds
+
+Starting episode 210 of 300
+Episode 210 finished with loss: 1.2696 | ran for 51 timesteps | final avg reward: -0.131 | took 84.27 seconds
+
+Starting episode 211 of 300
+Episode 211 finished with loss: 0.8752 | ran for 51 timesteps | final avg reward: -0.126 | took 85.45 seconds
+
+Starting episode 212 of 300
+Episode 212 finished with loss: 0.8264 | ran for 51 timesteps | final avg reward: -0.113 | took 81.03 seconds
+
+Starting episode 213 of 300
+Episode 213 finished with loss: 1.5995 | ran for 51 timesteps | final avg reward: -0.114 | took 82.36 seconds
+
+Starting episode 214 of 300
+Episode 214 finished with loss: 1.3447 | ran for 51 timesteps | final avg reward: -0.125 | took 83.27 seconds
+
+Starting episode 215 of 300
+Episode 215 finished with loss: 0.5047 | ran for 51 timesteps | final avg reward: -0.14 | took 85.1 seconds
+
+Starting episode 216 of 300
+Episode 216 finished with loss: 0.9622 | ran for 51 timesteps | final avg reward: -0.127 | took 82.99 seconds
+
+Starting episode 217 of 300
+Episode 217 finished with loss: 1.3672 | ran for 51 timesteps | final avg reward: -0.128 | took 83.16 seconds
+
+Starting episode 218 of 300
+Episode 218 finished with loss: 0.4904 | ran for 51 timesteps | final avg reward: -0.136 | took 84.34 seconds
+
+Starting episode 219 of 300
+Episode 219 finished with loss: 0.4984 | ran for 51 timesteps | final avg reward: -0.142 | took 87.02 seconds
+
+Starting episode 220 of 300
+Episode 220 finished with loss: 1.3819 | ran for 51 timesteps | final avg reward: -0.129 | took 83.19 seconds
+
+Starting episode 221 of 300
+Episode 221 finished with loss: 0.0347 | ran for 51 timesteps | final avg reward: -0.12 | took 82.98 seconds
+
+Starting episode 222 of 300
+Episode 222 finished with loss: 1.4104 | ran for 51 timesteps | final avg reward: -0.138 | took 83.29 seconds
+
+Starting episode 223 of 300
+Episode 223 finished with loss: 0.4887 | ran for 51 timesteps | final avg reward: -0.129 | took 83.06 seconds
+
+Starting episode 224 of 300
+Episode 224 finished with loss: 0.4534 | ran for 51 timesteps | final avg reward: -0.114 | took 81.04 seconds
+
+Starting episode 225 of 300
+Episode 225 finished with loss: 0.9186 | ran for 51 timesteps | final avg reward: -0.134 | took 85.24 seconds
+
+Starting episode 226 of 300
+Episode 226 finished with loss: 0.4602 | ran for 51 timesteps | final avg reward: -0.139 | took 87.14 seconds
+
+Starting episode 227 of 300
+Episode 227 finished with loss: 1.2449 | ran for 51 timesteps | final avg reward: -0.118 | took 83.34 seconds
+
+Starting episode 228 of 300
+Episode 228 finished with loss: 2.2386 | ran for 51 timesteps | final avg reward: -0.132 | took 85.55 seconds
+
+Starting episode 229 of 300
+Episode 229 finished with loss: 2.1806 | ran for 51 timesteps | final avg reward: -0.124 | took 81.41 seconds
+
+Starting episode 230 of 300
+Episode 230 finished with loss: 0.4153 | ran for 51 timesteps | final avg reward: -0.128 | took 86.29 seconds
+
+Starting episode 231 of 300
+Episode 231 finished with loss: 1.774 | ran for 51 timesteps | final avg reward: -0.132 | took 84.38 seconds
+
+Starting episode 232 of 300
+Episode 232 finished with loss: 1.3735 | ran for 51 timesteps | final avg reward: -0.129 | took 84.75 seconds
+
+Starting episode 233 of 300
+Episode 233 finished with loss: 0.8689 | ran for 51 timesteps | final avg reward: -0.124 | took 82.33 seconds
+
+Starting episode 234 of 300
+Episode 234 finished with loss: 1.3404 | ran for 51 timesteps | final avg reward: -0.118 | took 83.08 seconds
+
+Starting episode 235 of 300
+Episode 235 finished with loss: 1.3103 | ran for 51 timesteps | final avg reward: -0.138 | took 84.39 seconds
+
+Starting episode 236 of 300
+Episode 236 finished with loss: 0.8258 | ran for 51 timesteps | final avg reward: -0.124 | took 82.12 seconds
+
+Starting episode 237 of 300
+Episode 237 finished with loss: 0.4502 | ran for 51 timesteps | final avg reward: -0.119 | took 82.13 seconds
+
+Starting episode 238 of 300
+Episode 238 finished with loss: 2.1837 | ran for 51 timesteps | final avg reward: -0.135 | took 87.06 seconds
+
+Starting episode 239 of 300
+Episode 239 finished with loss: 0.9004 | ran for 51 timesteps | final avg reward: -0.116 | took 79.68 seconds
+
+Starting episode 240 of 300
+Episode 240 finished with loss: 2.2292 | ran for 51 timesteps | final avg reward: -0.134 | took 85.24 seconds
+
+Starting episode 241 of 300
+Episode 241 finished with loss: 0.9155 | ran for 51 timesteps | final avg reward: -0.139 | took 86.14 seconds
+
+Starting episode 242 of 300
+Episode 242 finished with loss: 0.4428 | ran for 51 timesteps | final avg reward: -0.131 | took 83.72 seconds
+
+Starting episode 243 of 300
+Episode 243 finished with loss: 0.8839 | ran for 51 timesteps | final avg reward: -0.118 | took 82.31 seconds
+
+Starting episode 244 of 300
+Episode 244 finished with loss: 1.6898 | ran for 51 timesteps | final avg reward: -0.127 | took 83.56 seconds
+
+Starting episode 245 of 300
+Episode 245 finished with loss: 0.4725 | ran for 51 timesteps | final avg reward: -0.124 | took 84.05 seconds
+
+Starting episode 246 of 300
+Episode 246 finished with loss: 0.4493 | ran for 51 timesteps | final avg reward: -0.131 | took 85.79 seconds
+
+Starting episode 247 of 300
+Episode 247 finished with loss: 0.8345 | ran for 51 timesteps | final avg reward: -0.127 | took 84.18 seconds
+
+Starting episode 248 of 300
+Episode 248 finished with loss: 1.2696 | ran for 51 timesteps | final avg reward: -0.12 | took 81.86 seconds
+
+Starting episode 249 of 300
+Episode 249 finished with loss: 0.9208 | ran for 51 timesteps | final avg reward: -0.118 | took 81.06 seconds
+
+Starting episode 250 of 300
+Episode 250 finished with loss: 0.4597 | ran for 51 timesteps | final avg reward: -0.116 | took 82.56 seconds
+
+Starting episode 251 of 300
+Episode 251 finished with loss: 0.9252 | ran for 51 timesteps | final avg reward: -0.11 | took 82.76 seconds
+
+Starting episode 252 of 300
+Episode 252 finished with loss: 0.0242 | ran for 51 timesteps | final avg reward: -0.124 | took 83.17 seconds
+
+Starting episode 253 of 300
+Episode 253 finished with loss: 0.4825 | ran for 51 timesteps | final avg reward: -0.128 | took 83.93 seconds
+
+Starting episode 254 of 300
+Episode 254 finished with loss: 1.4707 | ran for 51 timesteps | final avg reward: -0.128 | took 81.83 seconds
+
+Starting episode 255 of 300
+Episode 255 finished with loss: 2.434 | ran for 51 timesteps | final avg reward: -0.128 | took 83.44 seconds
+
+Starting episode 256 of 300
+Episode 256 finished with loss: 0.9927 | ran for 51 timesteps | final avg reward: -0.115 | took 82.33 seconds
+
+Starting episode 257 of 300
+Episode 257 finished with loss: 1.4672 | ran for 51 timesteps | final avg reward: -0.144 | took 87.02 seconds
+
+Starting episode 258 of 300
+Episode 258 finished with loss: 1.3291 | ran for 51 timesteps | final avg reward: -0.119 | took 83.9 seconds
+
+Starting episode 259 of 300
+Episode 259 finished with loss: 0.8524 | ran for 51 timesteps | final avg reward: -0.13 | took 84.84 seconds
+
+Starting episode 260 of 300
+Episode 260 finished with loss: 0.0357 | ran for 51 timesteps | final avg reward: -0.124 | took 83.65 seconds
+
+Starting episode 261 of 300
+Episode 261 finished with loss: 1.2701 | ran for 51 timesteps | final avg reward: -0.143 | took 84.94 seconds
+
+Starting episode 262 of 300
+Episode 262 finished with loss: 0.4465 | ran for 51 timesteps | final avg reward: -0.119 | took 82.75 seconds
+
+Starting episode 263 of 300
+Episode 263 finished with loss: 1.1567 | ran for 51 timesteps | final avg reward: -0.125 | took 82.81 seconds
+
+Starting episode 264 of 300
+Episode 264 finished with loss: 1.6316 | ran for 51 timesteps | final avg reward: -0.141 | took 87.61 seconds
+
+Starting episode 265 of 300
+Episode 265 finished with loss: 1.6396 | ran for 51 timesteps | final avg reward: -0.136 | took 85.6 seconds
+
+Starting episode 266 of 300
+Episode 266 finished with loss: 0.8731 | ran for 51 timesteps | final avg reward: -0.119 | took 84.41 seconds
+
+Starting episode 267 of 300
+Episode 267 finished with loss: 1.3349 | ran for 51 timesteps | final avg reward: -0.126 | took 83.82 seconds
+
+Starting episode 268 of 300
+Episode 268 finished with loss: 1.4265 | ran for 51 timesteps | final avg reward: -0.13 | took 85.18 seconds
+
+Starting episode 269 of 300
+Episode 269 finished with loss: 0.0472 | ran for 51 timesteps | final avg reward: -0.136 | took 85.11 seconds
+
+Starting episode 270 of 300
+Episode 270 finished with loss: 0.0342 | ran for 51 timesteps | final avg reward: -0.126 | took 81.88 seconds
+
+Starting episode 271 of 300
+Episode 271 finished with loss: 1.7834 | ran for 51 timesteps | final avg reward: -0.122 | took 85.44 seconds
+
+Starting episode 272 of 300
+Episode 272 finished with loss: 1.3 | ran for 51 timesteps | final avg reward: -0.117 | took 83.65 seconds
+
+Starting episode 273 of 300
+Episode 273 finished with loss: 1.8682 | ran for 51 timesteps | final avg reward: -0.13 | took 84.65 seconds
+
+Starting episode 274 of 300
+Episode 274 finished with loss: 1.456 | ran for 51 timesteps | final avg reward: -0.123 | took 82.93 seconds
+
+Starting episode 275 of 300
+Episode 275 finished with loss: 1.5332 | ran for 51 timesteps | final avg reward: -0.14 | took 85.81 seconds
+
+Starting episode 276 of 300
+Episode 276 finished with loss: 1.4484 | ran for 51 timesteps | final avg reward: -0.119 | took 85.02 seconds
+
+Starting episode 277 of 300
+Episode 277 finished with loss: 1.4221 | ran for 51 timesteps | final avg reward: -0.118 | took 83.04 seconds
+
+Starting episode 278 of 300
+Episode 278 finished with loss: 1.3677 | ran for 51 timesteps | final avg reward: -0.143 | took 85.43 seconds
+
+Starting episode 279 of 300
+Episode 279 finished with loss: 1.9397 | ran for 51 timesteps | final avg reward: -0.116 | took 81.51 seconds
+
+Starting episode 280 of 300
+Episode 280 finished with loss: 2.6648 | ran for 51 timesteps | final avg reward: -0.129 | took 84.49 seconds
+
+Starting episode 281 of 300
+Episode 281 finished with loss: 0.4709 | ran for 51 timesteps | final avg reward: -0.112 | took 82.14 seconds
+
+Starting episode 282 of 300
+Episode 282 finished with loss: 0.8762 | ran for 51 timesteps | final avg reward: -0.14 | took 86.79 seconds
+
+Starting episode 283 of 300
+Episode 283 finished with loss: 0.8904 | ran for 51 timesteps | final avg reward: -0.127 | took 83.81 seconds
+
+Starting episode 284 of 300
+Episode 284 finished with loss: 0.4832 | ran for 51 timesteps | final avg reward: -0.143 | took 89.57 seconds
+
+Starting episode 285 of 300
+Episode 285 finished with loss: 1.3117 | ran for 51 timesteps | final avg reward: -0.119 | took 83.83 seconds
+
+Starting episode 286 of 300
+Episode 286 finished with loss: 0.8484 | ran for 51 timesteps | final avg reward: -0.144 | took 88.76 seconds
+
+Starting episode 287 of 300
+Episode 287 finished with loss: 0.4337 | ran for 51 timesteps | final avg reward: -0.12 | took 82.73 seconds
+
+Starting episode 288 of 300
+Episode 288 finished with loss: 0.0376 | ran for 51 timesteps | final avg reward: -0.12 | took 82.97 seconds
+
+Starting episode 289 of 300
+Episode 289 finished with loss: 0.0322 | ran for 51 timesteps | final avg reward: -0.123 | took 83.83 seconds
+
+Starting episode 290 of 300
+Episode 290 finished with loss: 1.3184 | ran for 51 timesteps | final avg reward: -0.13 | took 86.36 seconds
+
+Starting episode 291 of 300
+Episode 291 finished with loss: 1.2399 | ran for 51 timesteps | final avg reward: -0.132 | took 87.99 seconds
+
+Starting episode 292 of 300
+Episode 292 finished with loss: 0.4617 | ran for 51 timesteps | final avg reward: -0.141 | took 88.87 seconds
+
+Starting episode 293 of 300
+Episode 293 finished with loss: 1.3312 | ran for 51 timesteps | final avg reward: -0.132 | took 85.78 seconds
+
+Starting episode 294 of 300
+Episode 294 finished with loss: 1.3314 | ran for 51 timesteps | final avg reward: -0.149 | took 91.56 seconds
+
+Starting episode 295 of 300
+Episode 295 finished with loss: 0.4861 | ran for 51 timesteps | final avg reward: -0.102 | took 82.98 seconds
+
+Starting episode 296 of 300
+Episode 296 finished with loss: 0.4968 | ran for 51 timesteps | final avg reward: -0.134 | took 89.36 seconds
+
+Starting episode 297 of 300
+Episode 297 finished with loss: 0.9539 | ran for 51 timesteps | final avg reward: -0.141 | took 87.81 seconds
+
+Starting episode 298 of 300
+Episode 298 finished with loss: 1.4232 | ran for 51 timesteps | final avg reward: -0.128 | took 86.72 seconds
+
+Starting episode 299 of 300
+Episode 299 finished with loss: 1.3468 | ran for 51 timesteps | final avg reward: -0.128 | took 87.14 seconds
+
+Starting episode 300 of 300
+Episode 300 finished with loss: 1.3374 | ran for 51 timesteps | final avg reward: -0.138 | took 86.9 seconds
+Total training finished in 24709.46 seconds

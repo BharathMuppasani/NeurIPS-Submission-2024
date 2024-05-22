@@ -1,0 +1,10 @@
+model,a1,a2,a3
+10_1.0_1_1,"Mean: 0.5816, Std Dev: 0.1044","Mean: 0.4089, Std Dev: 0.0831","Mean: 0.3026, Std Dev: 0.0806"
+10_1.0_1_2,"Mean: 0.6017, Std Dev: 0.1124","Mean: 0.4116, Std Dev: 0.0847","Mean: 0.3025, Std Dev: 0.0807"
+10_1.0_1_3,"Mean: 0.6104, Std Dev: 0.1114","Mean: 0.4138, Std Dev: 0.0857","Mean: 0.3025, Std Dev: 0.0807"
+10_1.0_2_1,"Mean: 0.5771, Std Dev: 0.1017","Mean: 0.4075, Std Dev: 0.0831","Mean: 0.3025, Std Dev: 0.0807"
+10_1.0_2_2,"Mean: 0.5828, Std Dev: 0.106","Mean: 0.4074, Std Dev: 0.0822","Mean: 0.3025, Std Dev: 0.0807"
+10_1.0_2_3,"Mean: 0.5808, Std Dev: 0.104","Mean: 0.4079, Std Dev: 0.0827","Mean: 0.3026, Std Dev: 0.0806"
+10_1.0_3_1,"Mean: 0.5788, Std Dev: 0.1008","Mean: 0.4078, Std Dev: 0.0816","Mean: 0.3026, Std Dev: 0.0806"
+10_1.0_3_2,"Mean: 0.5733, Std Dev: 0.101","Mean: 0.4055, Std Dev: 0.0818","Mean: 0.3026, Std Dev: 0.0806"
+10_1.0_3_3,"Mean: 0.5768, Std Dev: 0.1012","Mean: 0.407, Std Dev: 0.0818","Mean: 0.3026, Std Dev: 0.0806"
